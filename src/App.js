@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Header from "./components/staticPages/header/Header";
 import Home from "./components/staticPages/home/Home";
 import React from "react";
-import { HashRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import About from "./components/staticPages/aboutUs/About";
 import Notification from "./components/staticPages/notification/Notification";
 import Facilities from "./components/staticPages/facilities/Facilities";
