@@ -11,6 +11,7 @@ import Facilities from "./components/staticPages/facilities/Facilities";
 import Admission from "./components/staticPages/admission/Admission";
 import Footer from "./components/staticPages/footer/Footer";
 import ContactPage from "./components/staticPages/contact/contact";
+import Gallery from "./components/staticPages/gallery/Gallery";
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
           <Route exact path="/Notification"><Notification /> </Route>
           <Route exact path="/Facilities"> <Facilities /> </Route>
           <Route exact path="/Admission"> <Admission /> </Route>
+          <Route exact path="/Gallery"> <Gallery /> </Route>
           <Route exact path="/Contact"> <ContactPage /> </Route>
           <Route exact path="/"><Home />  </Route>
         </Switch>

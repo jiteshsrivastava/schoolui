@@ -10,8 +10,7 @@ export default function ImgSlider() {
         <Container>
              <Carousel interval={2000}>
                 <Carousel.Item>
-                    <img className="d-block w-100" src={img1} alt="school pic" />
-                                    </Carousel.Item>
+                    <img className="d-block w-100" src={img1} alt="school pic" />                                    </Carousel.Item>
                 <Carousel.Item>
                     <img className="d-block w-100" src={img2} alt="school pic" />
                 </Carousel.Item>
