@@ -24,7 +24,7 @@ export default function Gallery() {
 				</Col>
 				<Col>
 					<Card>
-						<Card.Header as="h5" className="myBackgroud1">Diwali Celibration </Card.Header>
+						<Card.Header as="h5" className="myBackgroud1">Diwali Celebration </Card.Header>
 						<Card.Body>
 							<Carousel>
 								<Carousel.Item>	<img className="d-block w-100" src={`${process.env.REACT_APP_S3_IMG_URL}diwali1.jpeg`} alt="Second slide"/> </Carousel.Item>
