@@ -3,6 +3,7 @@ import React from "react";
 import { Nav, Navbar, NavDropdown ,Container} from "react-bootstrap";
 import { LinkContainer } from "react-router-bootstrap";
 import {BsHouseFill} from "react-icons/bs";
+import logo from './logo.png';
 
 export default function Header() {
   return (
@@ -11,7 +12,7 @@ export default function Header() {
 
       <Navbar.Brand>
         <LinkContainer to="/">
-          <Nav.Link><img src={`${process.env.REACT_APP_S3_IMG_URL}logo.png`} alt="logo" /></Nav.Link>
+          <Nav.Link><img src={logo} alt="logo" /></Nav.Link>
         </LinkContainer>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
