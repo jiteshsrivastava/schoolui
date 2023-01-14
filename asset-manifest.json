@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.44c8c9d4.chunk.css",
-    "main.js": "/static/js/main.cb0401c1.chunk.js",
-    "main.js.map": "/static/js/main.cb0401c1.chunk.js.map",
+    "main.js": "/static/js/main.05e26408.chunk.js",
+    "main.js.map": "/static/js/main.05e26408.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5e4256a1.js",
     "runtime-main.js.map": "/static/js/runtime-main.5e4256a1.js.map",
     "static/css/2.0910520a.chunk.css": "/static/css/2.0910520a.chunk.css",
@@ -17,13 +17,22 @@
     "static/media/1.da17cc06.jpg": "/static/media/1.da17cc06.jpg",
     "static/media/2.870e1ab2.jpg": "/static/media/2.870e1ab2.jpg",
     "static/media/3.7d21615d.jpg": "/static/media/3.7d21615d.jpg",
-    "static/media/logo.1fd531f4.png": "/static/media/logo.1fd531f4.png"
+    "static/media/computerImg1.98590d4c.jpg": "/static/media/computerImg1.98590d4c.jpg",
+    "static/media/computerImg2.fe45818a.jpg": "/static/media/computerImg2.fe45818a.jpg",
+    "static/media/computerImg3.e93efb9f.jpg": "/static/media/computerImg3.e93efb9f.jpg",
+    "static/media/libraryImg1.7fac748c.jpg": "/static/media/libraryImg1.7fac748c.jpg",
+    "static/media/libraryImg2.75b42865.jpg": "/static/media/libraryImg2.75b42865.jpg",
+    "static/media/libraryImg3.14c3cda2.jpg": "/static/media/libraryImg3.14c3cda2.jpg",
+    "static/media/logo.1fd531f4.png": "/static/media/logo.1fd531f4.png",
+    "static/media/scienceImg1.c80b634e.jpg": "/static/media/scienceImg1.c80b634e.jpg",
+    "static/media/scienceImg2.6e252931.jpg": "/static/media/scienceImg2.6e252931.jpg",
+    "static/media/scienceImg3.02857ec5.jpg": "/static/media/scienceImg3.02857ec5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5e4256a1.js",
     "static/css/2.0910520a.chunk.css",
     "static/js/2.45390d67.chunk.js",
     "static/css/main.44c8c9d4.chunk.css",
-    "static/js/main.cb0401c1.chunk.js"
+    "static/js/main.05e26408.chunk.js"
   ]
 }
