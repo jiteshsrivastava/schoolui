@@ -19,7 +19,7 @@ const ContactPage = () => {
 					<div className="card">						
 						<div className="card-body">
 							<h5 className="card-title">Email</h5>
-							<p className="card-text">Support@gurukulacademylko.in</p>
+							<p className="card-text">gurukulacademylucknow@yahoo.com</p>
 						</div>
 					</div>
 				</div>
@@ -27,7 +27,8 @@ const ContactPage = () => {
 					<div className="card">						
 						<div className="card-body">
 							<h5 className="card-title">Phone</h5>
-							<p className="card-text">(+91) 706 894 5088</p>
+							<p> className="card-text"(+91) 788 099 0888</p>
+							<p className="card-text">(+91) 902 627 9797</p>
 						</div>
 					</div>
 				</div>
