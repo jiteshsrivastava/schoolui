@@ -15,7 +15,7 @@ export default function Notification() {
         <Card.Body>
           <Card.Title>Admission is going on</Card.Title>
           <Card.Text>
-            Hurry Up, few seats lefts , please contact @ 706 894 5088 to get admission.
+            Hurry Up, few seats lefts , please contact @ 7880990888, 9026279797 to get admission.
     </Card.Text>
         </Card.Body>
       </Card>
