@@ -26,9 +26,8 @@ const ContactPage = () => {
 				<div className="col">
 					<div className="card">						
 						<div className="card-body">
-							<h5 className="card-title">Phone</h5>
-							<p> className="card-text"(+91) 788 099 0888</p>
-							<p className="card-text">(+91) 902 627 9797</p>
+							<h5 className="card-title">Phone</h5>						
+							<p className="card-text">(+91) 7880990888, 9026279797</p>
 						</div>
 					</div>
 				</div>
