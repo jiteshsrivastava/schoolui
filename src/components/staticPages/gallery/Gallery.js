@@ -13,6 +13,18 @@ export default function Gallery() {
 				<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v17.0" nonce="ooveFoif"></script>
 
 				<Row xs="1" md="2" className="g-4">
+					<Col><div class="fb-video" data-href="https://www.facebook.com/100093913191887/videos/293346816977812/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/100093913191887/videos/293346816977812/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/100093913191887/videos/293346816977812/"></a><p>DUSSEHRA (RAVAAN DAHAAN) PROGRAM ON 21/10/2023</p>Posted by <a href="https://www.facebook.com/people/Gurukul-Academy/100093913191887/">Gurukul Academy</a> on Saturday, 21 October 2023</blockquote></div></Col>
+<Col>
+<div class="fb-video" data-href="https://www.facebook.com/100093913191887/videos/1477401589721277/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/100093913191887/videos/1477401589721277/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/100093913191887/videos/1477401589721277/"></a><p>DUSSEHRA DANCE PROGRAM 21/10/2023</p>Posted by <a href="https://www.facebook.com/people/Gurukul-Academy/100093913191887/">Gurukul Academy</a> on Saturday, 21 October 2023</blockquote></div>
+</Col>
+<Col>
+<div class="fb-post" data-href="https://www.facebook.com/photo/?fbid=192038343936604&amp;set=pcb.192039447269827" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=192039447269827&amp;id=100093913191887" class="fb-xfbml-parse-ignore"><p>DUSSEHRA CELEBRATION ON 21/10/2023</p>Posted by <a href="https://www.facebook.com/people/Gurukul-Academy/100093913191887/">Gurukul Academy</a> on&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=192039447269827&amp;id=100093913191887">Saturday, 21 October 2023</a></blockquote></div>
+</Col>
+
+
+
+					<Col>
+						<div class="fb-video" data-href="https://www.facebook.com/100093913191887/videos/361914996185953/" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/100093913191887/videos/361914996185953/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/100093913191887/videos/361914996185953/"></a><p>DUSSEHRA DANCE PROMGRAM 2 ON 21/10/2023</p>Posted by <a href="https://www.facebook.com/people/Gurukul-Academy/100093913191887/">Gurukul Academy</a> on Saturday, 21 October 2023</blockquote></div></Col>
 					<Col>
 						<div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=152556934551412&amp;id=100093913191887&amp;ref=embed_post" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=152556934551412&amp;id=100093913191887" class="fb-xfbml-parse-ignore"><p>VEGETABLE DAY CELEBRATE ON 19/08/2023 (PRE. NUR TO KG)</p>Posted by <a href="https://www.facebook.com/people/Gurukul-Academy/100093913191887/">Gurukul Academy</a> on&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=152556934551412&amp;id=100093913191887">Saturday, 19 August 2023</a></blockquote></div>
 					</Col>
