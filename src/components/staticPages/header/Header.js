@@ -24,6 +24,7 @@ export default function Header() {
             <LinkContainer to="/Facilities"><Nav.Link>Facilities</Nav.Link></LinkContainer>
             <LinkContainer to="/Admission"><Nav.Link>Admission</Nav.Link></LinkContainer>
             <LinkContainer to="/Gallery"><Nav.Link>Gallery</Nav.Link></LinkContainer>
+            <LinkContainer to="/public_disclosure"><Nav.Link>Public Disclosure</Nav.Link></LinkContainer>
         {/*   <Nav.Link href="#pricing">Career</Nav.Link>
           <NavDropdown title="Student Zone" id="collasible-nav-dropdown">
             <NavDropdown.Item href="#action/3.1">Profile</NavDropdown.Item>

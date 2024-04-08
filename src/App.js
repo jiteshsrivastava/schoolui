@@ -12,7 +12,7 @@ import Admission from "./components/staticPages/admission/Admission";
 import Footer from "./components/staticPages/footer/Footer";
 import ContactPage from "./components/staticPages/contact/contact";
 import Gallery from "./components/staticPages/gallery/Gallery";
-
+import Public_disclosure from "./components/staticPages/public_disclosure/public_disclosure";
 
 function App() {
   return (
@@ -26,6 +26,7 @@ function App() {
           <Route exact path="/Admission"> <Admission /> </Route>
           <Route exact path="/Gallery"> <Gallery /> </Route>
           <Route exact path="/Contact"> <ContactPage /> </Route>
+          <Route exact path="/public_disclosure"> <Public_disclosure /> </Route>
           <Route exact path="/"><Home />  </Route>
         </Switch>
         <Footer/>

@@ -8,7 +8,7 @@ export default function Home() {
         <Container>
             <ImgSlider />
             <Alert variant="info">
-                <h3> Welcome to Gurukul Academy </h3> <Button href={`${process.env.REACT_APP_S3_DOC_URL}prospectus.pdf`} >Download Prospectus </Button>
+                <h3> Welcome to Gurukul Academy </h3> <Button href={`prospectus.pdf`} >Download Prospectus </Button>
               </Alert>
             <Row xs="1" md="2" className="g-4">
                 <Col>
