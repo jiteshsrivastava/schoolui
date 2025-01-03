@@ -6,7 +6,7 @@ export default function Footer() {
       <br />
       <footer className="bg-light">
         <div className="footer-copyright text-center py-2">
-          © 2021 Copyright, &nbsp;
+          © 2025 Copyright, &nbsp;
           <a href="https://gurukulacademylko.in/">www.gurukulacademylko.in </a>
         </div>
         <div>          
