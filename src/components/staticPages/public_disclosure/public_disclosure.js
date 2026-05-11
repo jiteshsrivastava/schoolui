@@ -81,7 +81,7 @@ const public_disclosure = () => {
 				<div className="col">
 					<div className="card">						
 						<div className="card-body">
-						<Button href="LAST_THREE_YEAR_RESULT_OF_THE_BOARD_EXAMINATION_PER_APPLICABILITY.pdf" variant="primary">LAST THREE YEAR RESULT OF THE BOARD EXAMINATION PER APPLICABILITY</Button>
+						<Button href="RESULT_OF_THE_BOARD_EXAMINATION.pdf" variant="primary">LAST THREE YEAR RESULT OF THE BOARD EXAMINATION PER APPLICABILITY</Button>
 						</div>
 					</div>
 				</div>
