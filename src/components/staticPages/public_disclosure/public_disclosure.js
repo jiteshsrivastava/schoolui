@@ -11,14 +11,14 @@ const public_disclosure = () => {
 				<div className="col">
 					<div className="card">						
 						<div className="card-body">
-						<Button href="ANNUAL_ACADEMIC_CALENDER_2023-2024.pdf" variant="primary">ANNUAL ACADEMIC CALENDER 2023-2024</Button>
+						<Button href="ACADEMIC_CALANDAR_2026-2027.pdf" variant="primary">ANNUAL ACADEMIC CALENDER 2026-2027</Button>
 						</div>
 					</div>
 				</div>
 				<div className="col">
 					<div className="card">						
 						<div className="card-body">
-						<Button href="AFFICATION_AND_UPGRADATION_LETTER_AND_RECENT_EXTENSION_OF_AFFLIATION.pdf" variant="primary">AFFICATION & UPGRADATION LETTER AND RECENT EXTENSION OF AFFLIATION</Button>
+						<Button href="AFFICATION_AND_UPGRADATION_LETTER_AND_RECENT_EXTENSION_OF_AFFLIATION_SSL.pdf" variant="primary">AFFICATION & UPGRADATION LETTER AND RECENT EXTENSION OF AFFLIATION</Button>
 						</div>
 					</div>
 				</div>
@@ -32,7 +32,7 @@ const public_disclosure = () => {
 				<div className="col">
 					<div className="card">						
 						<div className="card-body">
-						<Button href="SOCIETIES_CAMPANY_REGISTRATION_RENEWAL_CERTIFICATE_AS_APPLICATION.pdf" variant="primary">SOCIETIES ,CAMPANY, REGISTRATION, RENEWAL CERTIFICATE AS APPLICATION</Button>
+						<Button href="SOCIETIES_CAMPANY_REGISTRATION_RENEWAL_CERTIFICATE.pdf" variant="primary">SOCIETIES ,CAMPANY, REGISTRATION, RENEWAL CERTIFICATE AS APPLICATION</Button>
 						</div>
 					</div>
 				</div>
@@ -74,7 +74,7 @@ const public_disclosure = () => {
 				<div className="col">
 					<div className="card">						
 						<div className="card-body">
-						<Button href="FEE_STRUCTURE_OF_THE_SCHOOL.pdf" variant="primary">FEE STRUCTURE OF THE SCHOOL</Button>
+						<Button href="FEE_STRUCTURE_OF_THE_SCHOOL_2026-2027.pdf" variant="primary">FEE STRUCTURE OF THE SCHOOL</Button>
 						</div>
 					</div>
 				</div>
