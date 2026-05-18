@@ -98,6 +98,13 @@ const public_disclosure = () => {
 						<Button href="WATER_HEALTH_AND_SANITATION_CERTIFICATES.pdf" variant="primary">WATER, HEALTH AND SANITATION CERTIFICATES</Button>
 						</div>
 					</div>
+				</div>
+				<div className="col">
+					<div className="card">						
+						<div className="card-body">
+						<Button href="staff_details.pdf" variant="primary">STAFF DETAILS</Button>
+						</div>
+					</div>
 				</div>				
 			</div>
 		</Container>
